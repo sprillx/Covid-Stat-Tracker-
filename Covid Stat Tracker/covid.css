@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    font-family: 'Assistant', sans-serif;
+    position: relative;
+    left: 10px;
+}
+
+body{
+    overflow-x: hidden;
+    
+}
+
